@@ -14,12 +14,6 @@ This Windows tool lets you generate as much of this "invisible ink" as you want.
 - View results in a scrollable GUI and copy the block to the clipboard.
 - Single-file Python app.
 
-- ## Clone the Repository
-
-```bash
-git clone https://github.com/ASHIK-NISHON/BLANK-MESSAGE
-cd BLANK-MESSAGE
-```
 
 ## Requirements (Windows)
 
@@ -30,8 +24,15 @@ cd BLANK-MESSAGE
 
 ## Install (Windows)
 
-Open PowerShell and run:
 
+To get started, clone the repository:
+
+```bash
+git clone https://github.com/ASHIK-NISHON/BLANK-MESSAGE
+cd BLANK-MESSAGE
+```
+
+Then, install the required dependencies. Open PowerShell and run:
 ```powershell
 python -m pip install --upgrade pyperclip
 ```
