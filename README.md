@@ -14,6 +14,13 @@ This Windows tool lets you generate as much of this "invisible ink" as you want.
 - View results in a scrollable GUI and copy the block to the clipboard.
 - Single-file Python app.
 
+- ## Clone the Repository
+
+```bash
+git clone https://github.com/ASHIK-NISHON/BLANK-MESSAGE
+cd BLANK-MESSAGE
+```
+
 ## Requirements (Windows)
 
 - Windows 10 or newer.
